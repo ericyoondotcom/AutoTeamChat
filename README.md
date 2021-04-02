@@ -1,5 +1,8 @@
 # AutoTeamChat
-Super simple Minecraft Bukkit plugin to automatically send team chat messages.
+Super simple Minecraft Bukkit plugin for switching to team chat mode: messages automatically get sent to team chat. Team chat quickly without typing /teammsg every single time!
+
+View on [Bukkit](https://dev.bukkit.org/projects/automatic-team-chat-mode)<br />
+View on [Spigot](https://www.spigotmc.org/resources/automatic-team-chat-mode.90829/)
 
 ---
 
