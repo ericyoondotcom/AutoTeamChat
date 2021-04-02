@@ -1,0 +1,13 @@
+name: AutoTeamChat
+version: 1.0
+main: com.yoonicode.autoteamchat.PluginMain
+api-version: 1.16
+commands:
+  chat:
+    description: Set your default chat channel.
+    usage: /chat <all|team>
+    permission: minecraft.command.teammsg
+  reload:
+    description: Reloads the plugin config.
+    usage: /reload
+    permission: autoteamchat.config

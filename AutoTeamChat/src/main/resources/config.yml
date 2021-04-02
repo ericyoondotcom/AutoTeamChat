@@ -1,0 +1,10 @@
+# If `true`, the plugin will use commands to send builtin /teammsg messages instead of custom-formatted ones.
+useBuiltInTeamMessages: false
+
+# The format of the team messages. Will be ignored if `useBuiltInTeamMessages` is set to `true`. Note: use format/color codes starting with the `&` character!
+# Available placeholders:
+# %color%: the display color of the player's team.
+# %team%: the name of the team.
+# %playername%: the name of the player sending the message.
+# %message%: the contents of the chat message.
+teamMessageFormat: "-> %color%[%team%]&r <%color%%playername%&r> %message%"
