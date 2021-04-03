@@ -19,7 +19,7 @@ If you did anything specific to trigger the bug, write it here.
 **Bukkit/Spigot server version:** X.X.X
 
 ## Configuration file
-Sending us your plugin `config.yml` file may help in diagnosing the issue. Paste the contents of the plugin's config file here: (feel free to omit your Discord token for security reasons)
+Sending us your plugin `config.yml` file may help in diagnosing the issue. Paste the contents of the plugin's config file here:
 ```yaml
 Paste your config.yml file here
 ```
